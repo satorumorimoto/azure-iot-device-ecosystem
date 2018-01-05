@@ -1,5 +1,5 @@
 ---
-platform: {enter the OS name running on device}
+platform: {Linux}
 device: {enter your device name here}
 language: java
 ---
